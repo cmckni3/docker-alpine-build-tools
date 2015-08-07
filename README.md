@@ -10,3 +10,15 @@ Alpine base image with build tools
 * bash
 * builds tools for gcc and g++
 * clang
+
+## Building the image
+
+```sh
+docker build -t cmckni3/alpine-build-tools .
+```
+
+## Running the image
+
+```sh
+docker run -it cmckni3/alpine-build-tools
+```
