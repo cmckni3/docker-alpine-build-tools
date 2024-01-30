@@ -1,7 +1,8 @@
 # Alpine docker container with build tools installed
 
-[![Docker Status](https://img.shields.io/badge/docker-ready-blue.svg)](https://registry.hub.docker.com/u/cmckni3/alpine-build-tools)
-[![Image Size](https://img.shields.io/docker/image-size/cmckni3/alpine-build-tools/latest)](https://registry.hub.docker.com/u/cmckni3/alpine-build-tools)
+[![Docker Status](https://img.shields.io/badge/docker-ready-blue.svg)](https://registry.hub.docker.com/r/cmckni3/alpine-build-tools)
+[![Docker Pulls](https://img.shields.io/docker/pulls/cmckni3/alpine-build-tools?label=Docker%20Hub%20Image%20Pulls)](https://registry.hub.docker.com/r/cmckni3/alpine-build-tools)
+[![Image Size](https://img.shields.io/docker/image-size/cmckni3/alpine-build-tools/latest)](https://registry.hub.docker.com/r/cmckni3/alpine-build-tools)
 
 Alpine base image with build tools
 
