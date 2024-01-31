@@ -1,10 +1,10 @@
-# Alpine docker container with build tools installed
+# Alpine container image with build tools installed
 
 [![Docker Status](https://img.shields.io/badge/docker-ready-blue.svg)](https://hub.docker.com/r/cmckni3/alpine-build-tools)
 [![Docker Pulls](https://img.shields.io/docker/pulls/cmckni3/alpine-build-tools?label=Docker%20Hub%20Image%20Pulls)](https://hub.docker.com/r/cmckni3/alpine-build-tools)
 [![Image Size](https://img.shields.io/docker/image-size/cmckni3/alpine-build-tools/latest)](https://hub.docker.com/r/cmckni3/alpine-build-tools)
 
-Alpine base image with build tools
+Alpine based image with common build tools installed
 
 ## What's Included
 
